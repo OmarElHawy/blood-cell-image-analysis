@@ -215,10 +215,6 @@ blood-cell-classification/
 ├── PHASE1.ipynb                  # Phase I — pre-processing notebook
 ├── PHASE2.ipynb            # Phase II — full pipeline notebook 
 │
-├── docs/
-│   ├── Research_Report.docx      # Combined Phase I + II research paper
-│   ├── Technical_Documentation.docx  # Full technical docs with code
-│
 └── README.md
 ```
 
